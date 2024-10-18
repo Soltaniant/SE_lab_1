@@ -21,16 +21,11 @@ nav {
     width: 35rem;
 }
 
-.header {
-    margin: 2rem 0;
-}
-
-.header h1 {
-    font-size: 3rem;
-    font-weight: 900;
+.gallery-item {
+    transition: all 0.3s;
     margin-bottom: 1rem;
 }
 
-.header p {
-    width: 35rem;
+.gallery-item:hover {
+    scale: 1.02;
 }
