@@ -21,10 +21,10 @@ nav {
     width: 35rem;
 }
 
-.card {
+.gallery-item {
     transition: all 0.3s;
 }
 
-.card:hover {
+.gallery-item:hover {
     scale: 1.02;
 }
