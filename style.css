@@ -20,3 +20,11 @@ nav {
 .header p {
     width: 35rem;
 }
+
+.card {
+    transition: all 0.3s;
+}
+
+.card:hover {
+    scale: 1.02;
+}
